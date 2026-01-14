@@ -185,6 +185,14 @@ main > section {
 .sponsor-company img {
   filter: grayscale(100%);
 }
+.ftr{
+  margin: 130px 0px 230px;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #424242;
+  background-color: #FFF4E7;
+}
 
 /* Responsive media */
 @media screen and (max-width: 576px) {
